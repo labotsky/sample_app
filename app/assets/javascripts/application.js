@@ -15,4 +15,4 @@
 //= require_tree .
 //= require bootstrap
 
-alert(document.cookie);
+
